@@ -1,41 +1,41 @@
-<!-- Header Typing Animation -->
+<!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&width=500&lines=Hi+👋,+I'm+Zakariya+Al-Shuaibi!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&width=500&lines=Hi+👋,+I'm+Zakariya+Al+Shuaibi!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Full-Stack & Mobile Developer 🚀 | Passionate About Building Smart Apps & Sleek Interfaces</h3>
+<h3 align="center">Full-Stack & Mobile Developer | Building Smart Platforms & Smooth Interfaces</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sulaimanaalfarsi&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zakariya&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 💡 About Me
+### 🧑‍💻 About Me
 
-🎯 **Driven developer** focused on delivering seamless **mobile** and **web applications** with delightful UX.  
-🛠️ Blending **creativity**, **code**, and **cutting-edge tech** to bring ideas to life.
+🚀 Passionate about crafting innovative **mobile & web applications** that blend design and functionality.  
+🌍 Focused on delivering real-world impact through elegant and scalable tech solutions.
 
-- 🔭 Currently working on: `MSRA`
-- 🚀 Exploring:  
-  - 🔹 Advanced **React.js** + **TypeScript**  
-  - 🔹 **Flutter** & **Firebase** integrations  
-  - 🔹 **AI/ML** for mobile and web apps  
-  - 🔹 Elevating **UI/UX** through design thinking
+- 🔭 Currently working on: **AFAQ platforms**
+- 🌱 Currently learning:
+  - Advanced **React.js** & **TypeScript**
+  - **Flutter** & cross-platform Firebase integration
+  - **AI/ML** for intelligent features in apps
+  - Clean **UI/UX Design** for seamless user journeys
 
 ---
 
-### 📫 Let's Connect
+### 📲 Let's Connect
 
 <p align="center">
-  <a href="https://twitter.com/sulaimanfarsi_" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sulaiman-alfarsi-844019287/" target="_blank">
+  <a href="https://www.linkedin.com/in/zakariya-al-shuaibi-6a2a1a28b" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/suliman.alf" target="_blank">
+  <a href="https://www.instagram.com/z370.z" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/96895616133" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 ### ⚙️ Tech Stack
 
-#### 👨‍💻 Languages
+#### 💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
@@ -88,7 +88,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
 </p>
 
-#### 🛠 Tools & Design
+#### 🛠 Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
@@ -97,18 +97,18 @@
 
 ---
 
-### 🧩 Other Highlights
+### 🧩 Specialties
 
-- UI/UX Design Principles  
-- RESTful APIs  
-- Firebase Authentication & Firestore  
-- Clean Code & Agile Methodologies  
+- RESTful API Development  
+- Firebase Auth & Firestore  
+- UI/UX Prototyping  
+- Agile Workflows & Clean Code  
 
 ---
 
 ### ⚡ Fun Fact
 
-> I love merging **design thinking** with **engineering** to craft intuitive, pixel-perfect experiences.
+> I build things that make people say “Wow!” before they even click a button.
 
 ---
 
