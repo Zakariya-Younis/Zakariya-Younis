@@ -13,14 +13,15 @@
 
 ### 🧑‍💻 About Me
 
-🚀 Passionate about crafting innovative **mobile & web applications** that blend design and functionality.  
+🚀 Passionate about crafting innovative web applications that blend design and functionality.  
 🌍 Focused on delivering real-world impact through elegant and scalable tech solutions.
 
 - 🔭 Currently working on: **AFAQ platforms**
 - 🌱 Currently learning:
   - Advanced **React.js** & **TypeScript**
-  - **Flutter** & cross-platform Firebase integration
   - **AI/ML** for intelligent features in apps
+- 🌱 used to work on it:
+  - **Flutter** & cross-platform Firebase integration
   - Clean **UI/UX Design** for seamless user journeys
 
 ---
